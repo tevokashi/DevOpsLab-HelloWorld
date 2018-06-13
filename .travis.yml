@@ -20,5 +20,5 @@ script:
 deploy:
   provider: heroku
   api-key: 
-    secure: bdb29f89-5150-45d6-884c-760a4cb76e9e
+    secure: $key
   app: helloword4linux
